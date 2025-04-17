@@ -1,4 +1,4 @@
-package io.github.itskilerluc.wallcraftingframe.menu.slot;
+package io.github.itskilerluc.wallcraftingframe.menu.util.slot;
 
 import net.minecraft.world.Container;
 import net.minecraft.world.entity.player.Player;

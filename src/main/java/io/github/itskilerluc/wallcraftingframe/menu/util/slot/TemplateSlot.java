@@ -1,4 +1,4 @@
-package io.github.itskilerluc.wallcraftingframe.menu.slot;
+package io.github.itskilerluc.wallcraftingframe.menu.util.slot;
 
 import net.minecraft.world.Container;
 import net.minecraft.world.entity.player.Player;
@@ -33,7 +33,7 @@ public class TemplateSlot extends Slot {
     }
 
     public @NotNull ItemStack safeInsert(ItemStack pStack, int pIncrement) {
-        this.set(new ItemStack(pStack.getItem(), pIncrement));
+        this.set(new ItemStack(pStack.getItem(), 1));
         return pStack;
     }
 
