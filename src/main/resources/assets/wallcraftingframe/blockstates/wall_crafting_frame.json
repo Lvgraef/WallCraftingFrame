@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+        "model": "wallcraftingframe:block/wall_crafting_frame"
+    },
+    "facing=east": {
+      "model": "wallcraftingframe:block/wall_crafting_frame",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "wallcraftingframe:block/wall_crafting_frame",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "wallcraftingframe:block/wall_crafting_frame",
+      "y": 180
+    }
+  }
+}

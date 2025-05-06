@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package" : "io.github.itskillerluc.wallcraftingframe.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.wallcraftingframe.refmap.json",
+  "mixins" : [
+    "SlotMixin"
+  ]
+}

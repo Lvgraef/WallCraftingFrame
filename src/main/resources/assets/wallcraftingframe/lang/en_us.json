@@ -1,0 +1,7 @@
+{
+  "guid.wallcraftingframe.no_ingredients": "Not enough ingredients",
+  "guid.wallcraftingframe.wallcraftingframe": "Wall Crafting Frame",
+  "block.wallcraftingframe.wall_crafting_frame": "Wall Crafting Frame",
+  "block.wallcraftingframe.wall_crafting_frame.tooltip1": "Right click to craft",
+  "block.wallcraftingframe.wallcraftingframe.tooltip2": "Shift right to bulk craft"
+}
